@@ -1,0 +1,37 @@
+[
+  {
+    "id": "Discord rules",
+    "title": "قــوانــيــن الديســكــورد",
+    "description": "data/file1.txt"
+  },
+  {
+    "id": "Genral laws",
+    "title": "القوانين العامة",
+    "description": "data/file2.txt"
+  },
+  {
+    "id": "Safe areas",
+    "title": "المـنـاطــق الامــنـة",
+    "description": "data/file3.txt"
+  },
+  {
+    "id": "Restaurant Rules",
+    "title": "قـوانيــن المطاعم",
+    "description": "data/file4.txt"
+  },
+  {
+    "id": "Crime Rules",
+    "title": "قوانين الاجرام",
+   "description": "data/file5.txt"
+     },
+    {
+     "id": "Gang laws",
+      "title": "قوانين العصابات",
+      "description": "data/file6.txt"
+        },
+  {
+        "id": "باقي مافي شي في بالي",
+        "title": "يا رجال روح نام",
+        "description": "data/file7.txt"
+  }
+]
